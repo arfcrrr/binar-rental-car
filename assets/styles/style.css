@@ -1,0 +1,117 @@
+body {
+    font-family: Helvetica, Arial, sans-serif; 
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.bg-lightblue, .accordion-button:hover {
+    background-color: #F1F3FF;
+}
+
+.bg-lime {
+    background-color: #5CB85F;
+    color: #fff;
+}
+
+.bg-lime:hover {
+    background-color: #54aa56;
+    color: #fff;
+}
+
+.navbar {
+    padding: 24px 136px;
+}
+
+.navbar-brand {
+    background-color: #0D28A6;
+    width: 100px;
+    height: 34px;
+}
+
+.nav-item > a:after {
+    color: #000;
+    font-weight: bold;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+#services {
+    padding: 48px 0;
+}
+
+.row, .col {
+    padding: 0;
+}
+
+.row-hero {
+    padding: 32px 0 0 64px;
+}
+
+h1, p {
+    padding: 0;
+}
+
+.title {
+    font-weight: bold;
+    padding: 0;
+}
+
+.subtitle {
+    font-weight: 600;
+}
+
+.right-image {
+    float: right;
+}
+
+.btn-auto {
+    width: auto;
+}
+
+#services-image {
+    padding-right: 64px;
+}
+
+.card {
+    width: 100%;
+}
+
+.card-testimonial {
+    width: 640px;
+    border-radius: 8px;
+    margin-bottom: 24px;
+    padding: 24px 80px 32px 80px;
+}
+
+.jumbotron {
+    background-color: #0D28A6;
+    border-radius: 12px;
+    padding: 5% 15%;
+    width: 85%;
+}
+
+.jumbotron > p {
+    width: 65%;
+}
+
+#faq > .container {
+    width: 80%;
+}
+
+footer {
+    margin: 150px auto 100px auto;
+}
+
+.col-3 > #contact {
+    margin-left: 43px;
+}
+
+.col-auto {
+    margin: 0 43px;
+}
+
+.icon-footer {
+    margin-right: 16px;
+}
